@@ -1,0 +1,1 @@
+In this project I'll build a copy of the Google homepage. 
