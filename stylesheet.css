@@ -68,13 +68,14 @@ li button[type=button] {
 }
 img.logo {
     display: inline-block;
-    width: 23%;
-    top: 125px;
+    width: 22%;
+    top: 115px;
     position: relative;
-    left: 85px;
+    left: 480px
 }
 div.logo-container {
     text-align: center;
+    display: flex;
 }
 div.search-container {
     text-align: center;
@@ -122,12 +123,11 @@ div.toprightcontainer {
     flex-direction: row;
     height: 50px;
     width: 250px;
-    background-color: gray;
     flex-wrap: nowrap;
-
+    
     top: 0;
     right: 0;
-
+    padding-right: 15px;
     align-items: flex-start;
 }
 li.frightleftG {
